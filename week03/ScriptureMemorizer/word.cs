@@ -1,11 +1,11 @@
 using System;
-
+namespace ScriptureHider
 {
 	// Class to represent a single word in the scripture
 	class Word
 	{
 		private string Text { get; set; }
-		private bool IsHidden { get; set; }
+		public bool IsHidden { get; set; }
 
 		public Word(string text)
 		{
