@@ -1,4 +1,6 @@
 using System;
+
+namespace OnlineOrdering
 {
 		// Order Class
 	class Order
