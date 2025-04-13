@@ -5,6 +5,7 @@ namespace MindfulnessApp
 {
     class Program
     {
+        // I Kept a log of how many times activities were performed in this program.
         static void Main(string[] args)
         {
             Dictionary<string, int> activityLog = new()

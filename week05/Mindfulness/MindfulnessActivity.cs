@@ -5,6 +5,8 @@ namespace MindfulnessApp
 {
     public class MindfulnessActivity
     {
+        // I Kept a log of how many times activities were performed in this program.
+        
         private string _name;
         private string _description;
         protected int _duration;
