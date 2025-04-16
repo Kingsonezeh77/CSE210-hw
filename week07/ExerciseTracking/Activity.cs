@@ -11,6 +11,7 @@ namespace FitnessApp
         {
             _date = date;
             _duration = duration;
+            
         }
 
         public DateTime Date => _date;
